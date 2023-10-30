@@ -1,0 +1,14 @@
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.deps.json
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfoInputs.cache
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfo.cs
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\obj\Debug\net7.0\refint\ShoppingApp.Data.dll
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\obj\Debug\net7.0\ref\ShoppingApp.Data.dll
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.runtimeconfig.json
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.AssemblyReference.cache
+C:\Users\camer\source\repos\ShoppingApp.Api\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.genruntimeconfig.cache
